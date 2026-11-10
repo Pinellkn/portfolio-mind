@@ -16,7 +16,7 @@ export const ME = {
   linkedin: "https://www.linkedin.com/in/pinel-lokonon-665610416",
   github: "https://github.com/pinellkn",
   cv: "/assets/CV_Pinel_LOKONON_2026.pdf",
-  portrait: "/assets/me/pinel-3.jpg",
+  portrait: "/assets/me/pinel-costume.jpg",
   portrait2: "/assets/me/pinel-1.jpg",
   title: "Développeur Fullstack Web & Mobile",
   availability: "Disponible : missions freelance, emploi ou stage professionnel",
